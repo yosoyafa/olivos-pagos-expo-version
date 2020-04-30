@@ -3,9 +3,7 @@
     "name": "olivos-pagos",
     "slug": "olivos-pagos",
     "platforms": [
-      "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,7 +23,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.integracionip.olivos-pagos",
+      "package": "com.integracionip.olivos_pagos",
       "versionCode": 1
     }
   }
